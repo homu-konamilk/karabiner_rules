@@ -17,6 +17,10 @@
 							"type": "variable_unless",
 							"name": "emacs_mode_markset",
 							"value": 1
+						},
+						{
+							"type": "frontmost_application_unless",
+							"bundle_identifiers": ["^com\\.googlecode\\.iterm2"]
 						}
 					],
 					"from": {
@@ -37,6 +41,10 @@
 							"type": "variable_unless",
 							"name": "emacs_mode_markset",
 							"value": 1
+						},
+						{
+							"type": "frontmost_application_unless",
+							"bundle_identifiers": ["^com\\.googlecode\\.iterm2"]
 						}
 					],
 					"from": {
@@ -57,6 +65,10 @@
 							"type": "variable_unless",
 							"name": "emacs_mode_markset",
 							"value": 1
+						},
+						{
+							"type": "frontmost_application_unless",
+							"bundle_identifiers": ["^com\\.googlecode\\.iterm2"]
 						}
 					],
 					"from": {
@@ -77,6 +89,10 @@
 							"type": "variable_unless",
 							"name": "emacs_mode_markset",
 							"value": 1
+						},
+						{
+							"type": "frontmost_application_unless",
+							"bundle_identifiers": ["^com\\.googlecode\\.iterm2"]
 						}
 					],
 					"from": {
@@ -97,6 +113,10 @@
 							"type": "variable_if",
 							"name": "emacs_mode_markset",
 							"value": 1
+						},
+						{
+							"type": "frontmost_application_unless",
+							"bundle_identifiers": ["^com\\.googlecode\\.iterm2"]
 						}
 					],
 					"from": {
@@ -118,6 +138,10 @@
 							"type": "variable_if",
 							"name": "emacs_mode_markset",
 							"value": 1
+						},
+						{
+							"type": "frontmost_application_unless",
+							"bundle_identifiers": ["^com\\.googlecode\\.iterm2"]
 						}
 					],
 					"from": {
@@ -139,6 +163,10 @@
 							"type": "variable_if",
 							"name": "emacs_mode_markset",
 							"value": 1
+						},
+						{
+							"type": "frontmost_application_unless",
+							"bundle_identifiers": ["^com\\.googlecode\\.iterm2"]
 						}
 					],
 					"from": {
@@ -160,6 +188,10 @@
 							"type": "variable_if",
 							"name": "emacs_mode_markset",
 							"value": 1
+						},
+						{
+							"type": "frontmost_application_unless",
+							"bundle_identifiers": ["^com\\.googlecode\\.iterm2"]
 						}
 					],
 					"from": {
@@ -186,6 +218,10 @@
 							"type": "variable_unless",
 							"name": "emacs_mode_markset",
 							"value": 1
+						},
+						{
+							"type": "frontmost_application_unless",
+							"bundle_identifiers": ["^com\\.googlecode\\.iterm2"]
 						}
 					],
 					"from": {
@@ -207,6 +243,10 @@
 							"type": "variable_unless",
 							"name": "emacs_mode_markset",
 							"value": 1
+						},
+						{
+							"type": "frontmost_application_unless",
+							"bundle_identifiers": ["^com\\.googlecode\\.iterm2"]
 						}
 					],
 					"from": {
@@ -228,6 +268,10 @@
 							"type": "variable_if",
 							"name": "emacs_mode_markset",
 							"value": 1
+						},
+						{
+							"type": "frontmost_application_unless",
+							"bundle_identifiers": ["^com\\.googlecode\\.iterm2"]
 						}
 					],
 					"from": {
@@ -249,6 +293,10 @@
 							"type": "variable_if",
 							"name": "emacs_mode_markset",
 							"value": 1
+						},
+						{
+							"type": "frontmost_application_unless",
+							"bundle_identifiers": ["^com\\.googlecode\\.iterm2"]
 						}
 					],
 					"from": {
@@ -275,6 +323,10 @@
 							"type": "variable_unless",
 							"name": "emacs_mode_markset",
 							"value": 1
+						},
+						{
+							"type": "frontmost_application_unless",
+							"bundle_identifiers": ["^com\\.googlecode\\.iterm2"]
 						}
 					],
 					"from": {
@@ -296,6 +348,10 @@
 							"type": "variable_unless",
 							"name": "emacs_mode_markset",
 							"value": 1
+						},
+						{
+							"type": "frontmost_application_unless",
+							"bundle_identifiers": ["^com\\.googlecode\\.iterm2"]
 						}
 					],
 					"from": {
@@ -317,6 +373,10 @@
 							"type": "variable_if",
 							"name": "emacs_mode_markset",
 							"value": 1
+						},
+						{
+							"type": "frontmost_application_unless",
+							"bundle_identifiers": ["^com\\.googlecode\\.iterm2"]
 						}
 					],
 					"from": {
@@ -338,6 +398,10 @@
 							"type": "variable_if",
 							"name": "emacs_mode_markset",
 							"value": 1
+						},
+						{
+							"type": "frontmost_application_unless",
+							"bundle_identifiers": ["^com\\.googlecode\\.iterm2"]
 						}
 					],
 					"from": {
@@ -364,6 +428,10 @@
 							"type": "variable_unless",
 							"name": "emacs_mode_markset",
 							"value": 1
+						},
+						{
+							"type": "frontmost_application_unless",
+							"bundle_identifiers": ["^com\\.googlecode\\.iterm2"]
 						}
 					],
 					"from": {
@@ -384,6 +452,10 @@
 							"type": "variable_unless",
 							"name": "emacs_mode_markset",
 							"value": 1
+						},
+						{
+							"type": "frontmost_application_unless",
+							"bundle_identifiers": ["^com\\.googlecode\\.iterm2"]
 						}
 					],
 					"from": {
@@ -404,6 +476,10 @@
 							"type": "variable_if",
 							"name": "emacs_mode_markset",
 							"value": 1
+						},
+						{
+							"type": "frontmost_application_unless",
+							"bundle_identifiers": ["^com\\.googlecode\\.iterm2"]
 						}
 					],
 					"from": {
@@ -425,6 +501,10 @@
 							"type": "variable_if",
 							"name": "emacs_mode_markset",
 							"value": 1
+						},
+						{
+							"type": "frontmost_application_unless",
+							"bundle_identifiers": ["^com\\.googlecode\\.iterm2"]
 						}
 					],
 					"from": {
@@ -451,6 +531,10 @@
 							"type": "variable_unless",
 							"name": "emacs_mode_markset",
 							"value": 1
+						},
+						{
+							"type": "frontmost_application_unless",
+							"bundle_identifiers": ["^com\\.googlecode\\.iterm2"]
 						}
 					],
 					"from": {
@@ -472,6 +556,10 @@
 							"type": "variable_unless",
 							"name": "emacs_mode_markset",
 							"value": 1
+						},
+						{
+							"type": "frontmost_application_unless",
+							"bundle_identifiers": ["^com\\.googlecode\\.iterm2"]
 						}
 					],
 					"from": {
@@ -493,6 +581,10 @@
 							"type": "variable_if",
 							"name": "emacs_mode_markset",
 							"value": 1
+						},
+						{
+							"type": "frontmost_application_unless",
+							"bundle_identifiers": ["^com\\.googlecode\\.iterm2"]
 						}
 					],
 					"from": {
@@ -514,6 +606,10 @@
 							"type": "variable_if",
 							"name": "emacs_mode_markset",
 							"value": 1
+						},
+						{
+							"type": "frontmost_application_unless",
+							"bundle_identifiers": ["^com\\.googlecode\\.iterm2"]
 						}
 					],
 					"from": {
@@ -673,7 +769,12 @@
 				{
 					"_comment": "Option+D to Option+Delete and disable markset mode",
 					"type": "basic",
-					"conditions": [],
+					"conditions": [
+						{
+							"type": "frontmost_application_unless",
+							"bundle_identifiers": ["^com\\.googlecode\\.iterm2"]
+						}
+					],
 					"from": {
 						"key_code": "d",
 						"modifiers": {"mandatory": ["option"], "optional": ["caps_lock"]}
@@ -733,6 +834,10 @@
 							"type": "variable_unless",
 							"name": "emacs_mode_markset",
 							"value": 1
+						},
+						{
+							"type": "frontmost_application_unless",
+							"bundle_identifiers": ["^com\\.googlecode\\.iterm2"]
 						}
 					],
 					"from": {
@@ -756,6 +861,10 @@
 							"type": "variable_if",
 							"name": "emacs_mode_markset",
 							"value": 1
+						},
+						{
+							"type": "frontmost_application_unless",
+							"bundle_identifiers": ["^com\\.googlecode\\.iterm2"]
 						}
 					],
 					"from": {
@@ -779,6 +888,10 @@
 							"type": "variable_if",
 							"name": "emacs_mode_markset",
 							"value": 1
+						},
+						{
+							"type": "frontmost_application_unless",
+							"bundle_identifiers": ["^com\\.googlecode\\.iterm2"]
 						}
 					],
 					"from": {
@@ -802,6 +915,10 @@
 							"type": "variable_if",
 							"name": "emacs_mode_markset",
 							"value": 1
+						},
+						{
+							"type": "frontmost_application_unless",
+							"bundle_identifiers": ["^com\\.googlecode\\.iterm2"]
 						}
 					],
 					"from": {
@@ -825,6 +942,10 @@
 							"type": "variable_if",
 							"name": "emacs_mode_markset",
 							"value": 1
+						},
+						{
+							"type": "frontmost_application_unless",
+							"bundle_identifiers": ["^com\\.googlecode\\.iterm2"]
 						}
 					],
 					"from": {
@@ -852,6 +973,10 @@
 							"type": "variable_if",
 							"name": "emacs_mode_markset",
 							"value": 1
+						},
+						{
+							"type": "frontmost_application_unless",
+							"bundle_identifiers": ["^com\\.googlecode\\.iterm2"]
 						}
 					],
 					"from": {
@@ -873,6 +998,10 @@
 							"type": "variable_if",
 							"name": "emacs_mode_markset",
 							"value": 1
+						},
+						{
+							"type": "frontmost_application_unless",
+							"bundle_identifiers": ["^com\\.googlecode\\.iterm2"]
 						}
 					],
 					"from": {
@@ -894,6 +1023,10 @@
 							"type": "variable_if",
 							"name": "emacs_mode_markset",
 							"value": 1
+						},
+						{
+							"type": "frontmost_application_unless",
+							"bundle_identifiers": ["^com\\.googlecode\\.iterm2"]
 						}
 					],
 					"from": {
@@ -915,6 +1048,10 @@
 							"type": "variable_if",
 							"name": "emacs_mode_markset",
 							"value": 1
+						},
+						{
+							"type": "frontmost_application_unless",
+							"bundle_identifiers": ["^com\\.googlecode\\.iterm2"]
 						}
 					],
 					"from": {
