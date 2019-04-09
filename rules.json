@@ -966,6 +966,37 @@
 					]
 				},
 				{
+					"_comment": "Press Command+C, disable markset mode (When markset mode is enabled)",
+					"type": "basic",
+					"conditions": [
+						{
+							"type": "variable_if",
+							"name": "emacs_mode_markset",
+							"value": 1
+						},
+						{
+							"type": "frontmost_application_unless",
+							"bundle_identifiers": ["^com\\.googlecode\\.iterm2"]
+						}
+					],
+					"from": {
+						"key_code": "c",
+						"modifiers": {"mandatory": ["command"], "optional": ["caps_lock"]}
+					},
+					"to": [
+						{
+							"key_code": "c",
+							"modifiers": ["left_command"]
+						},
+						{
+							"set_variable": {
+								"name": "emacs_mode_markset",
+								"value": 0
+							}
+						}
+					]
+				},
+				{
 					"_comment": "Left to Shift+Left (When markset mode is enabled)",
 					"type": "basic",
 					"conditions": [
