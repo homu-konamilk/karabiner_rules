@@ -1,6 +1,6 @@
 {
 	"title": "My Favorite Rules",
-	"_comments":{
+	"descriptions":{
 		"variables": {
 			"emacs_mode_markset": "marksetモードのときに1になる変数"
 		}
@@ -10,7 +10,7 @@
 			"description": "Control+P/N/B/F to Up/Down/Left/Right",
 			"manipulators": [
 				{
-					"_comment": "Cntrol+P to Up (When markset mode is disabled)",
+					"description": "Cntrol+P to Up (When markset mode is disabled)",
 					"type": "basic",
 					"conditions": [
 						{
@@ -34,7 +34,7 @@
 					]
 				},
 				{
-					"_comment": "Cntrol+N to Down (When markset mode is disabled)",
+					"description": "Cntrol+N to Down (When markset mode is disabled)",
 					"type": "basic",
 					"conditions": [
 						{
@@ -58,7 +58,7 @@
 					]
 				},
 				{
-					"_comment": "Cntrol+B to Left (When markset mode is disabled)",
+					"description": "Cntrol+B to Left (When markset mode is disabled)",
 					"type": "basic",
 					"conditions": [
 						{
@@ -82,7 +82,7 @@
 					]
 				},
 				{
-					"_comment": "Cntrol+F to Right (When markset mode is disabled)",
+					"description": "Cntrol+F to Right (When markset mode is disabled)",
 					"type": "basic",
 					"conditions": [
 						{
@@ -106,7 +106,7 @@
 					]
 				},
 				{
-					"_comment": "Cntrol+P to Shift+Up (When markset mode is enabled)",
+					"description": "Cntrol+P to Shift+Up (When markset mode is enabled)",
 					"type": "basic",
 					"conditions": [
 						{
@@ -131,7 +131,7 @@
 					]
 				},
 				{
-					"_comment": "Cntrol+N to Shift+Down (When markset mode is enabled)",
+					"description": "Cntrol+N to Shift+Down (When markset mode is enabled)",
 					"type": "basic",
 					"conditions": [
 						{
@@ -156,7 +156,7 @@
 					]
 				},
 				{
-					"_comment": "Cntrol+B to Shift+Left (When markset mode is enabled)",
+					"description": "Cntrol+B to Shift+Left (When markset mode is enabled)",
 					"type": "basic",
 					"conditions": [
 						{
@@ -181,7 +181,7 @@
 					]
 				},
 				{
-					"_comment": "Cntrol+F to Shift+Right (When markset mode is enabled)",
+					"description": "Cntrol+F to Shift+Right (When markset mode is enabled)",
 					"type": "basic",
 					"conditions": [
 						{
@@ -211,7 +211,7 @@
 			"description": "Option+B/F to Option+Left/Right",
 			"manipulators": [
 				{
-					"_comment": "Option+B to Option+Left (When markset mode is disabled)",
+					"description": "Option+B to Option+Left (When markset mode is disabled)",
 					"type": "basic",
 					"conditions": [
 						{
@@ -236,7 +236,7 @@
 					]
 				},
 				{
-					"_comment": "Option+F to Option+Right (When markset mode is disabled)",
+					"description": "Option+F to Option+Right (When markset mode is disabled)",
 					"type": "basic",
 					"conditions": [
 						{
@@ -261,7 +261,7 @@
 					]
 				},
 				{
-					"_comment": "Option+B to Shift+Option+Left (When markset mode is enabled)",
+					"description": "Option+B to Shift+Option+Left (When markset mode is enabled)",
 					"type": "basic",
 					"conditions": [
 						{
@@ -286,7 +286,7 @@
 					]
 				},
 				{
-					"_comment": "Option+F to Shift+Option+Right (When markset mode is enabled)",
+					"description": "Option+F to Shift+Option+Right (When markset mode is enabled)",
 					"type": "basic",
 					"conditions": [
 						{
@@ -316,7 +316,7 @@
 			"description": "Control+A/E to Command+Left/Right",
 			"manipulators": [
 				{
-					"_comment": "Cntrol+A to Command+Left (When markset mode is disabled)",
+					"description": "Cntrol+A to Command+Left (When markset mode is disabled)",
 					"type": "basic",
 					"conditions": [
 						{
@@ -341,7 +341,7 @@
 					]
 				},
 				{
-					"_comment": "Cntrol+E to Command+Right (When markset mode is disabled)",
+					"description": "Cntrol+E to Command+Right (When markset mode is disabled)",
 					"type": "basic",
 					"conditions": [
 						{
@@ -366,7 +366,7 @@
 					]
 				},
 				{
-					"_comment": "Cntrol+A to Shift+Command+Left (When markset mode is enabled)",
+					"description": "Cntrol+A to Shift+Command+Left (When markset mode is enabled)",
 					"type": "basic",
 					"conditions": [
 						{
@@ -391,7 +391,7 @@
 					]
 				},
 				{
-					"_comment": "Cntrol+E to Shift+Command+Right (When markset mode is enabled)",
+					"description": "Cntrol+E to Shift+Command+Right (When markset mode is enabled)",
 					"type": "basic",
 					"conditions": [
 						{
@@ -421,7 +421,7 @@
 			"description": "Control/Option+V to PageDown/PageUp",
 			"manipulators": [
 				{
-					"_comment": "Cntrol+V to PageDown (When markset mode is disabled)",
+					"description": "Cntrol+V to PageDown (When markset mode is disabled)",
 					"type": "basic",
 					"conditions": [
 						{
@@ -445,7 +445,7 @@
 					]
 				},
 				{
-					"_comment": "Option+V to PageUp (When markset mode is disabled)",
+					"description": "Option+V to PageUp (When markset mode is disabled)",
 					"type": "basic",
 					"conditions": [
 						{
@@ -469,7 +469,7 @@
 					]
 				},
 				{
-					"_comment": "Cntrol+V to Shift+PageDown (When markset mode is enabled)",
+					"description": "Cntrol+V to Shift+PageDown (When markset mode is enabled)",
 					"type": "basic",
 					"conditions": [
 						{
@@ -494,7 +494,7 @@
 					]
 				},
 				{
-					"_comment": "Option+V to Shift+PageUp (When markset mode is enabled)",
+					"description": "Option+V to Shift+PageUp (When markset mode is enabled)",
 					"type": "basic",
 					"conditions": [
 						{
@@ -524,7 +524,7 @@
 			"description": "Option+Shift+,/. to Command+Up/Down",
 			"manipulators": [
 				{
-					"_comment": "Option+Shift+. to Command+Up (When markset mode is disabled)",
+					"description": "Option+Shift+. to Command+Up (When markset mode is disabled)",
 					"type": "basic",
 					"conditions": [
 						{
@@ -549,7 +549,7 @@
 					]
 				},
 				{
-					"_comment": "Option+Shift+. to Command+Down (When markset mode is disabled)",
+					"description": "Option+Shift+. to Command+Down (When markset mode is disabled)",
 					"type": "basic",
 					"conditions": [
 						{
@@ -574,7 +574,7 @@
 					]
 				},
 				{
-					"_comment": "Option+Shift+, to Shift+Command+Up (When markset mode is enabled)",
+					"description": "Option+Shift+, to Shift+Command+Up (When markset mode is enabled)",
 					"type": "basic",
 					"conditions": [
 						{
@@ -599,7 +599,7 @@
 					]
 				},
 				{
-					"_comment": "Option+Shift+. to Shift+Command+Down (When markset mode is enabled)",
+					"description": "Option+Shift+. to Shift+Command+Down (When markset mode is enabled)",
 					"type": "basic",
 					"conditions": [
 						{
@@ -629,7 +629,7 @@
 			"description": "Control+W to Command+X",
 			"manipulators": [
 				{
-					"_comment": "Cntrol+W to Command+X and disable markset mode",
+					"description": "Cntrol+W to Command+X and disable markset mode",
 					"type": "basic",
 					"conditions": [],
 					"from": {
@@ -657,7 +657,7 @@
 			"description": "Option+W to Command+C",
 			"manipulators": [
 				{
-					"_comment": "Option+W to Command+C and disable markset mode",
+					"description": "Option+W to Command+C and disable markset mode",
 					"type": "basic",
 					"conditions": [],
 					"from": {
@@ -685,7 +685,7 @@
 			"description": "Control+Y to Command+V",
 			"manipulators": [
 				{
-					"_comment": "Control+Y to Command+V and disable markset mode",
+					"description": "Control+Y to Command+V and disable markset mode",
 					"type": "basic",
 					"conditions": [],
 					"from": {
@@ -713,7 +713,7 @@
 			"description": "Control+D to Delete",
 			"manipulators": [
 				{
-					"_comment": "Control+D to Delete and disable markset mode",
+					"description": "Control+D to Delete and disable markset mode",
 					"type": "basic",
 					"conditions": [],
 					"from": {
@@ -740,7 +740,7 @@
 			"description": "Control+H to Backspace",
 			"manipulators": [
 				{
-					"_comment": "Control+H to Backspace and disable markset mode",
+					"description": "Control+H to Backspace and disable markset mode",
 					"type": "basic",
 					"conditions": [],
 					"from": {
@@ -767,7 +767,7 @@
 			"description": "Option+D to Option+Delete",
 			"manipulators": [
 				{
-					"_comment": "Option+D to Option+Delete and disable markset mode",
+					"description": "Option+D to Option+Delete and disable markset mode",
 					"type": "basic",
 					"conditions": [
 						{
@@ -800,7 +800,7 @@
 			"description": "Control+[ to Escape",
 			"manipulators": [
 				{
-					"_comment": "Control+[ to Escape and disable markset mode",
+					"description": "Control+[ to Escape and disable markset mode",
 					"type": "basic",
 					"conditions": [],
 					"from": {
@@ -827,7 +827,7 @@
 			"description": "Control+Space to Markset-mode",
 			"manipulators": [
 				{
-					"_comment": "Press Control+Space and enable markset mode (When markset mode is disabled)",
+					"description": "Press Control+Space and enable markset mode (When markset mode is disabled)",
 					"type": "basic",
 					"conditions": [
 						{
@@ -854,7 +854,7 @@
 					]
 				},
 				{
-					"_comment": "Press Control+Space and disable markset mode (When markset mode is enabled)",
+					"description": "Press Control+Space and disable markset mode (When markset mode is enabled)",
 					"type": "basic",
 					"conditions": [
 						{
@@ -881,7 +881,7 @@
 					]
 				},
 				{
-					"_comment": "Press Control+G and disable markset mode (When markset mode is enabled)",
+					"description": "Press Control+G and disable markset mode (When markset mode is enabled)",
 					"type": "basic",
 					"conditions": [
 						{
@@ -908,7 +908,7 @@
 					]
 				},
 				{
-					"_comment": "Press Escape and disable markset mode (When markset mode is enabled)",
+					"description": "Press Escape and disable markset mode (When markset mode is enabled)",
 					"type": "basic",
 					"conditions": [
 						{
@@ -935,7 +935,7 @@
 					]
 				},
 				{
-					"_comment": "Press Backspace and delete selection and disable markset mode (When markset mode is enabled)",
+					"description": "Press Backspace and delete selection and disable markset mode (When markset mode is enabled)",
 					"type": "basic",
 					"conditions": [
 						{
@@ -966,7 +966,7 @@
 					]
 				},
 				{
-					"_comment": "Press Command+C, disable markset mode (When markset mode is enabled)",
+					"description": "Press Command+C, disable markset mode (When markset mode is enabled)",
 					"type": "basic",
 					"conditions": [
 						{
@@ -997,7 +997,7 @@
 					]
 				},
 				{
-					"_comment": "Left to Shift+Left (When markset mode is enabled)",
+					"description": "Left to Shift+Left (When markset mode is enabled)",
 					"type": "basic",
 					"conditions": [
 						{
@@ -1022,7 +1022,7 @@
 					]
 				},
 				{
-					"_comment": "Right to Shift+Right (When markset mode is enabled)",
+					"description": "Right to Shift+Right (When markset mode is enabled)",
 					"type": "basic",
 					"conditions": [
 						{
@@ -1047,7 +1047,7 @@
 					]
 				},
 				{
-					"_comment": "Up to Shift+Up (When markset mode is enabled)",
+					"description": "Up to Shift+Up (When markset mode is enabled)",
 					"type": "basic",
 					"conditions": [
 						{
@@ -1072,7 +1072,7 @@
 					]
 				},
 				{
-					"_comment": "Down to Shift+Down (When markset mode is enabled)",
+					"description": "Down to Shift+Down (When markset mode is enabled)",
 					"type": "basic",
 					"conditions": [
 						{
