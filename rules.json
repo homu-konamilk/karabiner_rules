@@ -715,7 +715,12 @@
 				{
 					"_comment": "Control+D to Delete and disable markset mode",
 					"type": "basic",
-					"conditions": [],
+					"conditions": [
+						{
+							"type": "frontmost_application_unless",
+							"bundle_identifiers": ["^com\\.googlecode\\.iterm2"]
+						}
+					],
 					"from": {
 						"key_code": "d",
 						"modifiers": {"mandatory": ["control"], "optional": ["caps_lock"]}
